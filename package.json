@@ -1,0 +1,16 @@
+{
+  "name": "node-bunnyon",
+  "version": "1.0.0",
+  "description": "A fast JSON beacon storage",
+  "scripts": {
+    "test": "mocha"
+  },
+  "main": "lib",
+  "author": "FujiHaruka",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "last-line": "^0.0.3",
+    "mkdirp": "^0.5.1"
+  }
+}
